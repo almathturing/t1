@@ -16,6 +16,5 @@ $docker run -p 5000:5000 <imageID>       # Example: docker run -p 5000:5000 d028
   
   
   2.4 View specific order of specific customer with customer id, and order id route
-  127.0.0.1:5000/customers/4/orders/2          
-  # Here customer id is 4, order id is 2
+  127.0.0.1:5000/customers/4/orders/2   # Here customer id is 4, order id is 2
   
